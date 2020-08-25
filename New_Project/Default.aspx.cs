@@ -14,8 +14,9 @@ public partial class Default : System.Web.UI.Page
 {
     protected void Page_Load(object sender, EventArgs e)
     {
+        int a = 1;
+        int b = 2;
         int c = 3;
-        int b = 3;
         int d = c + b;
         int a = 1;
         if (a == 1)
