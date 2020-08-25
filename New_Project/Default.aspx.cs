@@ -16,6 +16,9 @@ public partial class Default : System.Web.UI.Page
     {
         int a = 1;
         int b = 2;
+        int c = 3;
+        int d = c + b;
+        int a = 1;
         if (a == 1)
         {
             b++;
