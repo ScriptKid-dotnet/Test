@@ -14,8 +14,5 @@ public partial class Default : System.Web.UI.Page
 {
     protected void Page_Load(object sender, EventArgs e)
     {
-        double d = 1;
-        int i = 4;
-        string s = "test";
     }
 }
